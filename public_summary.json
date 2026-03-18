@@ -1,0 +1,58 @@
+{
+  "portfolio_value": 99985.47,
+  "cash": 7978.01,
+  "daily_pnl": -368.6650354441517,
+  "daily_pnl_pct": -0.36736407056265563,
+  "starting_capital": 100000,
+  "total_return_pct": -0.01,
+  "position_count": 9,
+  "last_updated": "2026-03-18 10:59",
+  "positions": [
+    {
+      "ticker": "BRK.B",
+      "weight_pct": 11.8,
+      "unrealized_pnl_pct": -1.29
+    },
+    {
+      "ticker": "PEP",
+      "weight_pct": 11.6,
+      "unrealized_pnl_pct": -3.05
+    },
+    {
+      "ticker": "JNJ",
+      "weight_pct": 10.8,
+      "unrealized_pnl_pct": -2.14
+    },
+    {
+      "ticker": "XOM",
+      "weight_pct": 10.8,
+      "unrealized_pnl_pct": 7.54
+    },
+    {
+      "ticker": "CVX",
+      "weight_pct": 10.7,
+      "unrealized_pnl_pct": 6.97
+    },
+    {
+      "ticker": "COP",
+      "weight_pct": 10.1,
+      "unrealized_pnl_pct": 0.24
+    },
+    {
+      "ticker": "MSFT",
+      "weight_pct": 9.2,
+      "unrealized_pnl_pct": -3.51
+    },
+    {
+      "ticker": "KO",
+      "weight_pct": 8.9,
+      "unrealized_pnl_pct": -0.8
+    },
+    {
+      "ticker": "AAPL",
+      "weight_pct": 8.2,
+      "unrealized_pnl_pct": -4.04
+    }
+  ],
+  "todays_trades": []
+}
