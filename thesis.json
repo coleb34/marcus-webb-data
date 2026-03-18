@@ -1,0 +1,45 @@
+{
+  "week": 1,
+  "starting_capital": 100000,
+  "positions": {
+    "CVX": {
+      "thesis": "Thesis intact. Up 0.57% with oil price strength. Venezuela deal discussions and potential Brazil Ipiranga acquisition show growth strategy execution. 39-year dividend growth streak provides income stability during volatile periods.",
+      "last_updated": "2026-03-18"
+    },
+    "JNJ": {
+      "thesis": "Thesis strengthened. Down 2.09% despite FDA approval of ICOTYDE for plaque psoriasis - significant milestone for IL-23 receptor antagonist. Market focusing on short-term price action rather than pipeline progress. Current weakness creates better entry opportunity.",
+      "last_updated": "2026-03-18"
+    },
+    "KO": {
+      "thesis": "Thesis intact. Down 0.31% in line with consumer staples weakness. Sprite reclaiming NBA sponsorship from PepsiCo's Starry demonstrates brand strength in competitive beverage market. Defensive characteristics remain relevant.",
+      "last_updated": "2026-03-18"
+    },
+    "MSFT": {
+      "thesis": "Thesis unchanged. Down 0.14% as market weighs AI spending concerns against growth potential. OpenAI legal threat rumors create noise, but Azure and cloud infrastructure positioning remains strong. Current levels offer reasonable value.",
+      "last_updated": "2026-03-18"
+    },
+    "COP": {
+      "thesis": "Thesis intact despite 0.8% decline. The pullback in oil prices from geopolitical de-escalation hopes doesn't change the fundamental investment case. ConocoPhillips remains well-positioned with low-cost production and strong cash generation capabilities. Goldman Sachs conviction call during the crisis validates the strategic value of domestic energy exposure.",
+      "last_updated": "2026-03-10"
+    },
+    "XOM": {
+      "thesis": "Thesis enhanced. Up 1.00% as oil prices surge past $100 amid Iran conflict escalation. Exxon's integrated model with refining capabilities provides superior cash generation in current environment. Geopolitical risk premium now justified in energy sector.",
+      "last_updated": "2026-03-18"
+    },
+    "BRK.B": {
+      "thesis": "Thesis unchanged. Minor decline of 0.07% shows characteristic stability during volatile periods. Berkshire's cash-heavy position and diverse operations continue providing defensive value as geopolitical tensions persist.",
+      "last_updated": "2026-03-18"
+    },
+    "AAPL": {
+      "thesis": "Thesis evolving positively. Up 0.56% as Tim Cook China visit shows management focus on key growth market. App Store commission reduction in China removes competitive pressure. AI integration through design-focused approach differentiates from commodity AI plays.",
+      "last_updated": "2026-03-18"
+    },
+    "PEP": {
+      "thesis": "Thesis intact. Down 0.77% but Elliott-driven transformation continues with South Africa expansion through Varun Beverages. Loss of NBA sponsorship to Sprite is competitive headwind, but cost reduction initiatives and portfolio optimization should drive margins higher.",
+      "last_updated": "2026-03-18"
+    }
+  },
+  "watchlist": [],
+  "notes": "Portfolio just initialized. Marcus is beginning his research process and looking for initial positions.",
+  "last_run": "2026-03-18"
+}
