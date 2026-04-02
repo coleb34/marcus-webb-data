@@ -1,57 +1,57 @@
 {
-  "portfolio_value": 100329.57,
+  "portfolio_value": 100450.81,
   "cash": 7978.01,
-  "daily_pnl": -881.8625927400572,
-  "daily_pnl_pct": -0.8713072922191929,
+  "daily_pnl": 671.6227353118011,
+  "daily_pnl_pct": 0.6731090458074798,
   "starting_capital": 100000,
-  "total_return_pct": 0.33,
+  "total_return_pct": 0.45,
   "position_count": 9,
-  "last_updated": "2026-04-01 07:15",
+  "last_updated": "2026-04-02 07:15",
   "positions": [
-    {
-      "ticker": "BRK.B",
-      "weight_pct": 11.6,
-      "unrealized_pnl_pct": -2.7
-    },
     {
       "ticker": "PEP",
       "weight_pct": 11.6,
-      "unrealized_pnl_pct": -3.37
+      "unrealized_pnl_pct": -3.29
+    },
+    {
+      "ticker": "BRK.B",
+      "weight_pct": 11.6,
+      "unrealized_pnl_pct": -3.33
     },
     {
       "ticker": "XOM",
-      "weight_pct": 11.0,
-      "unrealized_pnl_pct": 10.8
+      "weight_pct": 11.1,
+      "unrealized_pnl_pct": 11.17
     },
     {
       "ticker": "JNJ",
       "weight_pct": 11.0,
-      "unrealized_pnl_pct": 0.42
+      "unrealized_pnl_pct": 0.3
     },
     {
       "ticker": "CVX",
-      "weight_pct": 10.8,
-      "unrealized_pnl_pct": 7.85
+      "weight_pct": 10.7,
+      "unrealized_pnl_pct": 7.83
     },
     {
       "ticker": "COP",
-      "weight_pct": 10.3,
-      "unrealized_pnl_pct": 3.13
+      "weight_pct": 10.7,
+      "unrealized_pnl_pct": 6.9
     },
     {
       "ticker": "KO",
       "weight_pct": 8.8,
-      "unrealized_pnl_pct": -1.83
+      "unrealized_pnl_pct": -1.56
     },
     {
       "ticker": "MSFT",
-      "weight_pct": 8.7,
-      "unrealized_pnl_pct": -8.22
+      "weight_pct": 8.5,
+      "unrealized_pnl_pct": -10.45
     },
     {
       "ticker": "AAPL",
       "weight_pct": 8.2,
-      "unrealized_pnl_pct": -2.79
+      "unrealized_pnl_pct": -3.12
     }
   ],
   "todays_trades": []
